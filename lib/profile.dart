@@ -61,7 +61,7 @@ class _ProfileState extends State<Profile> {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Favorite Heroes',
+              'Favorite Marvel Heroes',
               style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 10),

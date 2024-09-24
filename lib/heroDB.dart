@@ -54,7 +54,7 @@ class _HeroDatabaseState extends State<HeroDatabase> {
       appBar: AppBar(
         backgroundColor: Colors.red[800],
         foregroundColor: Colors.white,
-        title: const Text('List Heroes Marvel'),
+        title: const Text('List Marvel Heroes'),
       ),
       body: ListView.builder(
         itemCount: heroes.length,
